@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string-array name="opciones">
+        <item>Shooters</item>
+        <item>Autos</item>
+        <item>Zombies</item>
+
+    </string-array>
+</resources>
